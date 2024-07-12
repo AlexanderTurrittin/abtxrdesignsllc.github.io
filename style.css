@@ -117,17 +117,12 @@ body{
   #businessDescription{
     background-color: white;
     text-align: center;
-    padding: 5%;
   }
   #descriptionMain{
-    padding-right: 5%;
+    padding: 5%;
   }
   #descriptionLeft{
-    padding-right: 5%;
-    text-align: left;
-  }
-  #descriptionRight{
-    padding-right: 5%;
+    padding: 5%;
     text-align: left;
   }
 
